@@ -1,6 +1,6 @@
-[36m2018-12-17 06:43:18.918 UTC [msp] GetLocalMSP -> DEBU 001[0m Returning existing local MSP
-[36m2018-12-17 06:43:18.918 UTC [msp] GetDefaultSigningIdentity -> DEBU 002[0m Obtaining default signing identity
-2018-12-17 06:43:18.918 UTC [channelCmd] InitCmdFactory -> INFO 003[0m Endorser and orderer connections initialized
+[36m2019-01-04 03:20:05.600 UTC [msp] GetLocalMSP -> DEBU 001[0m Returning existing local MSP
+[36m2019-01-04 03:20:05.600 UTC [msp] GetDefaultSigningIdentity -> DEBU 002[0m Obtaining default signing identity
+2019-01-04 03:20:05.601 UTC [channelCmd] InitCmdFactory -> INFO 003[0m Endorser and orderer connections initialized
 Error: channel create configuration tx file not found open ./channel-artifacts/channel.tx: no such file or directory
 Usage:
   peer channel create [flags]
